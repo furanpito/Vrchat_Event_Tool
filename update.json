@@ -6,7 +6,7 @@
     },
     "pro": {
         "latest_version": "v1.0.0",
-        "booth_url": "https://github.com/furanpito/Vrchat_Event_Tool/releases/download/prov1.0.0/pro1.0.0.zip",
+        "download_url": "https://github.com/furanpito/Vrchat_Event_Tool/releases/download/prov1.0.0/pro1.0.0.zip",
         "release_note": "1st released (Pro)"
     }
 }
